@@ -1,6 +1,6 @@
-<div align=center>
+/*<div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Nomad Enghu&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=Nomad Enghu&fontSize=80&animation=fadeIn)*/
 
 ### 👋Hi There, I'm Hyo(Luna).
 
@@ -26,7 +26,7 @@
 #### 📲 CONTACT
 
 <img src="https://img.shields.io/badge/-1004hjpark@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-<a href=""><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>https://memoty.tistory.com
+<a href="https://memoty.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
   </div>
   
 
