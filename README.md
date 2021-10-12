@@ -16,6 +16,6 @@
 
 #### 📲 CONTACT
 <a href="https://memoty.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
-  </div>
+  </div> https://memoty.tistory.com
   
 <br>
