@@ -15,8 +15,7 @@
   <br><br>
 
 #### 📲 CONTACT
-<img src="https://img.shields.io/badge/-remonytea@gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-<a href="https://https://memoty.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
+<a href="https://memoty.tistory.com"><img src="https://img.shields.io/badge/-ITBlog-black?style=flat-square&logo=dev.to&logoColor=white"/></a>
   </div>
   
 <br>
