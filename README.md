@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/-AWS-yellow?style=flat-square&logo=Amazon aws&logoColor=black"/> <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 
 #### & Java/Spring, JS, mysql etc
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img logo=JAVA&logoColor=black"/>
   <br><br>
 
 #### 📲 CONTACT
