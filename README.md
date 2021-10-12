@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=NomadEnghu&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=280&section=header&text=I'm<br>Hyo(Luna)&fontSize=80&animation=fadeIn)
 
 ### 👋Hi There, I'm Hyo(Luna).
 
